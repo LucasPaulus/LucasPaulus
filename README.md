@@ -83,9 +83,8 @@ Minha carreira profissional na área de TI teve início quando decidi entrar no 
 </div>
 <br>
 <div align="center"  >
-  <h2> 📚 Estudando</h2>
   <p>➡️ Desenvolvimento Full Stack</p>
- <p>🏫 School: GrowDev</p> 
+<p>🏫 School: GrowDev</p> 
     
 </div>
 <br/>
