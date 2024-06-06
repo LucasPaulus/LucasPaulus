@@ -1,9 +1,3 @@
-
-
-<div align="center">
- <img src="img/github-header-image.png"  />
-</div>
-
 <h1 align="center"> 🙋‍♂️ Sobre mim </h1>
 <div align="center">
 <p  align="left">
