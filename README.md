@@ -59,11 +59,8 @@ Minha carreira profissional na área de TI teve início quando decidi entrar no 
 <div align="center">
  <h2> 🔨 Hard Skills</h2>
  <div>
-    <p align="left">Front-end: HTML5, CSS3, JavaScript, React.js, Redux, Context</p>
-    <p align="left">Back-end: Node.js, API REST</p>
-    <p align="left">Banco de Dados: PostgreSQL, MongoDB</p>
-    <p align="left">Ferramentas e Outros: Git, Docker, Linux, WordPress, WooCommerce, Shopify (Liquid)</p>
-    <p align="left">Design: Figma, Adobe Photoshop</p>   
+    <p align="left">MONGODB, POSTGRESQL, EXPRESS JS, API REST, REACT(vite, next), NODE JS, JEST, TypeScript, Git, Figma</p>
+ 
  </div>
   
  
