@@ -59,7 +59,7 @@ Minha carreira profissional na área de TI teve início quando decidi entrar no 
 <div align="center">
  <h2> 🔨 Hard Skills</h2>
  <div>
-    <p align="left">MONGODB, POSTGRESQL, EXPRESS JS, API REST, REACT(vite, next), NODE JS, JEST, TypeScript, Git, Figma</p>
+    <p align="center">MONGODB, POSTGRESQL, EXPRESS JS, API REST, REACT(vite, next), NODE JS, JEST, TypeScript, Git, Figma</p>
  
  </div>
   
